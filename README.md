@@ -1,1 +1,3 @@
 Layoff is an occasion when a company stops employing someone, sometimes temporarily, because the company does not have enough money or enough work: The recent economic crisis has led to massive layoffs. The dataset is sourced from Kaggle and subjected to cleaning and exploration using Microsoft Power BI Desktop. The dashboard consist page level filters, visual level filters, slicers and various other visuals to make it more interactive and relevant.
+
+Link to Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiODdkZThlZmUtMjk4MC00OWI4LTkzNTUtZWNiMTExMWYyMWUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
